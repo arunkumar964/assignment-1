@@ -1,0 +1,4 @@
+print(" -----'Calculating area of circle'------")
+radius = float(input("enter the radius of circle"))
+calculation = print(3.14*radius*radius)
+print( calculation)
